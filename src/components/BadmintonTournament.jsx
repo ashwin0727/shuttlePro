@@ -26,6 +26,8 @@ const TABS = [
   { id: "admin", label: "Admin", icon: "⚙️", adminOnly: true },
 ];
 
+
+
 const INITIAL_TEAMS = [
   { id: 1, name: "Storm Eagles", players: ["Arjun K", "Manu R"], logo: "🦅", color: "#ff6b35" },
   { id: 2, name: "Thunder Hawks", players: ["Vikram S", "Rahul M"], logo: "🦅", color: "#737373" },
